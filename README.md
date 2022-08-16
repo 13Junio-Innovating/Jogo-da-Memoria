@@ -4,4 +4,4 @@
 
 # Como jogar o jogo
 
-Para iniciar o jogo basta executar o arquivo index.html \nem um navegador de uma cópia de gerencimento em um arquivo local.
+Para iniciar o jogo basta executar o arquivo index.html em um navegador de uma cópia de gerencimento em um arquivo local.
